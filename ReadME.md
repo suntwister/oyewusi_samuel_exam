@@ -1,6 +1,6 @@
 ## About
 
-# This repository consist of examination files written in python for Publica Academy Examination, it consist of three solutions 
+### This repository consist of examination files written in python for Publica Academy Examination, it consist of three solutions 
 
 ### The first solution is a basic calculator task which runs basic calculations like addition, subtraction, multiplication and division. The calculator usees Error handling to catch errors from the user
 
