@@ -68,14 +68,14 @@ while True:
 # Question 3
 
 while True:
-    age = int(input("Enter your age (or type exit to quit): "))
+    age = input("Enter your age (or type exit to quit): ")
     
     if age == exit:
         print("Goodbye!")
         break
     
     try:
-        if age >= 18:
+        if int(age) >= 18:
             print("You can vote")
         else:
             print("You cannot vote")
